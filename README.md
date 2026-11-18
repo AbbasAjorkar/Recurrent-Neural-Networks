@@ -10,11 +10,10 @@ Due to GitHub's file size limits, the raw dataset (~711 MB) is not included in t
 1. **Download the dataset** from the UCI Machine Learning Repository:
    - [ElectricityLoadDiagrams20112014 Dataset (UCI)](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014)
 2. **Extract the archive** (`electricityloaddiagrams20112014.zip`) to obtain `LD2011_2014.txt`.
-3. **Place the file** inside a `data/` directory at the root of this project:
+3. **Place the file** inside the directory at the root of this project:
    ```text
    Recurrent-Neural-Networks/
-   ├── data/
-   │   └── LD2011_2014.txt
+   ├── LD2011_2014.txt
    ├── main.py
    ├── .gitignore
    └── README.md
