@@ -7,4 +7,6 @@ data/
 models/*.pth
 models/*.pt
 *.onnx
-runs/
+runs/LD2011_2014.txt
+
+LD2011_2014.txt
